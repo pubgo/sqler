@@ -5,7 +5,7 @@ require (
 	github.com/SAP/go-hdb v0.13.2
 	github.com/alash3al/go-color v1.7.0
 	github.com/asaskevich/govalidator v0.0.0-20180720115003-f9ffefc3facf
-	github.com/bwmarrin/snowflake v0.0.0-20180412010544-68117e6bbede
+	github.com/bwmarrin/snowflake v0.0.0-20180412010544-68117e6bbede // indirect
 	github.com/denisenkom/go-mssqldb v0.0.0-20181014144952-4e0d7dc8888f
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible // indirect
 	github.com/dlclark/regexp2 v1.1.6 // indirect
@@ -24,9 +24,10 @@ require (
 	github.com/tidwall/redcon v0.9.0
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/valyala/fasttemplate v0.0.0-20170224212429-dcecefd839c4 // indirect
-	github.com/vmihailenco/msgpack v4.0.1+incompatible
-	golang.org/x/crypto v0.0.0-20190103213133-ff983b9c42bc
+	github.com/vmihailenco/msgpack v4.0.1+incompatible // indirect
+	golang.org/x/crypto v0.0.0-20190103213133-ff983b9c42bc // indirect
 	golang.org/x/net v0.0.0-20190110200230-915654e7eabc // indirect
-	golang.org/x/text v0.3.0 // indirect
+	golang.org/x/sys v0.0.0-20190429190828-d89cdac9e872 // indirect
+	google.golang.org/appengine v1.5.0 // indirect
 	gopkg.in/resty.v1 v1.11.0
 )
